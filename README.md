@@ -2,7 +2,7 @@
 
 A responsive, single-page website for a fictional gym in Vashi, Navi Mumbai. Built as a static front-end demo with sample content.
 
-**Live demo:** https://YOUR-GYM-SITE.vercel.app
+**Live demo:** [ https://YOUR-GYM-SITE.vercel.app](https://gym-lemon-six.vercel.app/)
 
 ## Features
 
